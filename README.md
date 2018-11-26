@@ -24,4 +24,4 @@
 
 9.[使用scrapy框架爬取漫画网站u17.com并保存漫画信息到本地数据库](U17/youyaoqi/youyaoqi/spiders/yaoqi.py)
 
-10.[破解点击图片的验证登录方式，爬取漫画网站.（以及使用IP池等)](daili_IP/spider_1kkk.py)
+10.[破解点击图片的验证登录方式，爬取漫画网站.（以及IP池等)](daili_IP/spider_1kkk.py)
