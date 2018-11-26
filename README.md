@@ -18,7 +18,7 @@
 7.原生和scrapy框架分别爬取百家姓并存储到mysql
 
 - [1.原生爬取](xingming.py)
-- [2.scrapy框架爬取](Baijiaxing\xingshi\spiders\xingshi.py)
+- [2.scrapy框架爬取](Baijiaxing/xingshi/spiders/xingshi.py)
 
 8.[使用scrapy以及selenium自动爬取携程](Ctrip\ctrip\ctrip\spiders\xiecheng.py)
 
