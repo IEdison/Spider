@@ -20,8 +20,8 @@
 - [1.原生爬取](xingming.py)
 - [2.scrapy框架爬取](Baijiaxing/xingshi/spiders/xingshi.py)
 
-8.[使用scrapy以及selenium自动爬取携程](Ctrip\ctrip\ctrip\spiders\xiecheng.py)
+8.[使用scrapy以及selenium自动爬取携程](Ctrip/ctrip/ctrip/spiders/xiecheng.py)
 
-9.[使用scrapy框架爬取漫画网站u17.com并保存漫画信息到本地数据库](U17\youyaoqi\youyaoqi\spiders\yaoqi.py)
+9.[使用scrapy框架爬取漫画网站u17.com并保存漫画信息到本地数据库](U17/youyaoqi/youyaoqi/spiders/yaoqi.py)
 
-10.[破解点击图片的验证登录方式，爬取漫画网站.（以及使用IP池等）](daili IP)
+10.[破解点击图片的验证登录方式，爬取漫画网站.（以及使用IP池等）](daili IP/)
